@@ -1,0 +1,5 @@
+git checkout -b bug-fix-typo
+# make changes
+git add .
+git commit -m "Fix typo"
+git push origin bug-fix-typo
